@@ -8,7 +8,7 @@ Each user who logs into the application, will have thier own set of income sourc
 
 Implement following features:-
 
-1. Register users
+1. R egister users
 
 Each user will have
 
